@@ -66,4 +66,4 @@ MEC Def from 26/30/34 to 5/6/7
 MEC SA/HA/hardness/piercing bonus removed
 MEC hardness from 0.5/0.6/0.7 to 0.3/0.4/0.5
 MEC max HP from 30 to 25
-MEC cost from 10/11/12 to 6/7/8
+MEC cost from 10/11/12 to 6/7/8.
