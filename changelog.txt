@@ -10,7 +10,6 @@ Equipment
 		Breakthrough from 22.5/32.5/45/57.5 to 20/30/40/50
 		Soft Attack from 12/15/21/27 to 10/15/20/25
 		Hard Attack from 4/4/6/9 to 4/6/8/10
-		Production cost from 7/8/9/10 to 6/7/8/9
 
 	Light Tank Artillery Equipment:
 		Defense from 4/5/7 to 2/4/6
