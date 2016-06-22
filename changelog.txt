@@ -1,102 +1,102 @@
 0.0.2 Cleanup of Initial Adjustments
 
 Equipment
-  Infantry Equipment:
-    Soft Attack from 4.5/9/14.5/18 to 4/8/12/16
-    Defense from 20/22/28/34 to 20/25/30/35
-  
-  Light Tank Equipment:
-  	Defense from 4/4/5/6 to 2/4/6/8
-    Breakthrough from 22.5/32.5/45/57.5 to 20/30/40/50
-    Soft Attack from 12/15/21/27 to 10/15/20/25
-    Hard Attack from 4/4/6/9 to 4/6/8/10
-    Production cost from 7/8/9/10 to 6/7/8/9
-  
-  Light Tank Artillery Equipment:
-    Defense from 4/5/7 to 2/4/6
-    Breakthrough from 2/2.5/3.5 to 1/2/3
-    Soft Attack from 32/42/48 to 30/40/50
-  
-  Medium Tank Equipment:
-  	Defense from 5/7/9 to 5/10/15
-    Breakthrough from 45/64/82.5 to 45/60/75
-    Soft Attack from 18/24/32 to 20/25/30
-    Hard Attack from 18/24/32 to 20/25/30
-  
-  Medium Tank Artillery Equipment:
-    Defense from 8/10/12 to 4/8/12
-    Breakthrough from 4/5/6 to 3/4/5
-    Soft Attack from 46/56/66 to 45/55/65
-  
-  Heavy Tank Equipment:
-  	Defense from 6/8/9 to 10/15/20
-    Breakthrough from 45/65/84 to 50/65/80
-    Soft Attack from 18/30/40 to 20/25/30
-    Hard Attack from 18/30/40 to 20/30/40
-  
-  Heavy Tank Artillery Equipment:
-  	Defense from 4/6/7 to 8/12/16
-    Breakthrough from 5/6/7 to 4/6/8
-    Soft Attack from 46/62/76 to 50/60/75
+	Infantry Equipment:
+		Soft Attack from 4.5/9/14.5/18 to 4/8/12/16
+		Defense from 20/22/28/34 to 20/25/30/35
+
+	Light Tank Equipment:
+		Defense from 4/4/5/6 to 2/4/6/8
+		Breakthrough from 22.5/32.5/45/57.5 to 20/30/40/50
+		Soft Attack from 12/15/21/27 to 10/15/20/25
+		Hard Attack from 4/4/6/9 to 4/6/8/10
+		Production cost from 7/8/9/10 to 6/7/8/9
+
+	Light Tank Artillery Equipment:
+		Defense from 4/5/7 to 2/4/6
+		Breakthrough from 2/2.5/3.5 to 1/2/3
+		Soft Attack from 32/42/48 to 30/40/50
+
+	Medium Tank Equipment:
+		Defense from 5/7/9 to 5/10/15
+		Breakthrough from 45/64/82.5 to 45/60/75
+		Soft Attack from 18/24/32 to 20/25/30
+		Hard Attack from 18/24/32 to 20/25/30
+	
+	Medium Tank Artillery Equipment:
+		Defense from 8/10/12 to 4/8/12
+		Breakthrough from 4/5/6 to 3/4/5
+		Soft Attack from 46/56/66 to 45/55/65
+
+	Heavy Tank Equipment:
+		Defense from 6/8/9 to 10/15/20
+		Breakthrough from 45/65/84 to 50/65/80
+		Soft Attack from 18/30/40 to 20/25/30
+		Hard Attack from 18/30/40 to 20/30/40
+
+	Heavy Tank Artillery Equipment:
+		Defense from 4/6/7 to 8/12/16
+		Breakthrough from 5/6/7 to 4/6/8
+		Soft Attack from 46/62/76 to 50/60/75
 
 ----------------------------------------------
 
 0.0.1 Initial Adjustments
 
 Equipment
-  Infantry Equipment:
-    Soft Attack from 3/6/9/12 to 4.5/9/14.5/18
+	Infantry Equipment:
+		Soft Attack from 3/6/9/12 to 4.5/9/14.5/18
 
-  Artillery Equipment:
-    Soft Attack from 30/40/50 to 20/30/40
-  
-  Light Tank Equipment:
-    Breakthrough from 18/26/36/46 to 22.5/32.5/45/57.5
-    Soft Attack from 8/10/14/18 to 12/15/21/27
-    Production cost from 7/8/9/10 to 6/7/8/9
-  
-  Light Tank Artillery Equipment:
-    Soft Attack from 42/56/63 to 32/42/48
-  
-  Medium Tank Equipment:
-    Breakthrough from 36/51/66 to 45/64/82.5
-    Soft Attack from 15/20/26 to 18/24/32
-    Hard Attack from 14/19/24 to 18/24/32
-  
-  Medium Tank Artillery Equipment:
-    Defense from 12/6/14 to 8/10/12
-    Breakthrough from 6/3/7 to 4/5/6
-    Soft Attack from 70/92/112 to 46/56/66
-  
-  Heavy Tank Equipment:
-    Breakthrough from 36/52/67 to 45/65/84
-    Soft Attack from 12/22/28 to 18/30/40
-    Hard Attack from 12/30/40 to 18/30/40
-  
-  Heavy Tank Artillery Equipment:
-    Breakthrough from 2/3/3.5 to 5/6/7
-    Soft Attack from 70/97/117 to 46/62/76
-  
-  Mechanized Equipment:
-    Defense from 26/30/34 to 5/6/7
-    Breakthrough from 4/5/6 to 10/12/14
-    Hardness from 0.5/0.6/0.7 to 0.3/0.4/0.5
-    Production cost from 10/11/12 to 6/7/8
-    
+	Artillery Equipment:
+		Soft Attack from 30/40/50 to 20/30/40
+
+	Light Tank Equipment:
+		Breakthrough from 18/26/36/46 to 22.5/32.5/45/57.5
+		Soft Attack from 8/10/14/18 to 12/15/21/27
+		Production cost from 7/8/9/10 to 6/7/8/9
+
+	Light Tank Artillery Equipment:
+		Soft Attack from 42/56/63 to 32/42/48
+
+	Medium Tank Equipment:
+		Breakthrough from 36/51/66 to 45/64/82.5
+		Soft Attack from 15/20/26 to 18/24/32
+		Hard Attack from 14/19/24 to 18/24/32
+
+	Medium Tank Artillery Equipment:
+		Defense from 12/6/14 to 8/10/12
+		Breakthrough from 6/3/7 to 4/5/6
+		Soft Attack from 70/92/112 to 46/56/66
+
+	Heavy Tank Equipment:
+		Breakthrough from 36/52/67 to 45/65/84
+		Soft Attack from 12/22/28 to 18/30/40
+		Hard Attack from 12/30/40 to 18/30/40
+
+	Heavy Tank Artillery Equipment:
+		Breakthrough from 2/3/3.5 to 5/6/7
+		Soft Attack from 70/97/117 to 46/62/76
+
+	Mechanized Equipment:
+		Defense from 26/30/34 to 5/6/7
+		Breakthrough from 4/5/6 to 10/12/14
+		Hardness from 0.5/0.6/0.7 to 0.3/0.4/0.5
+		Production cost from 10/11/12 to 6/7/8
+
 Units
-  Light Armor, Medium Armor, and Heavy Armor:
-    Removed +50% Soft Attack tanks_are_awesome modifier
-  
-  Self-Proplled Light Artillery:
-    Light Tank Artillery Equipment needed from 24 to 30
-  
-  Self-Proplled Medium Artillery:
-    Medium Tank Artillery Equipment needed from 20 to 25
-  
-  Mechanized:
-    Removed +10% Soft Attack, +400% Hard Attack, and +20% Hardness modifiers
-    Max HP from 30 to 25
+	Light Armor, Medium Armor, and Heavy Armor:
+		Removed +50% Soft Attack tanks_are_awesome modifier
+
+	Self-Proplled Light Artillery:
+		Light Tank Artillery Equipment needed from 24 to 30
+
+	Self-Proplled Medium Artillery:
+		Medium Tank Artillery Equipment needed from 20 to 25
+
+	Mechanized:
+		Removed +10% Soft Attack, +400% Hard Attack, and +20% Hardness modifiers
+		Max HP from 30 to 25
 
 Technology
-  Mechanized:
-    Tech date from 41/43/45 to 39/41/43 (NOT YET IMPLEMENTED)
+	Mechanized:
+		Tech date from 41/43/45 to 39/41/43 (NOT YET IMPLEMENTED)
