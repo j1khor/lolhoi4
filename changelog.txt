@@ -37,7 +37,7 @@ Equipment
 	Heavy Tank Artillery Equipment:
 		Defense from 4/6/7 to 8/12/16
 		Breakthrough from 5/6/7 to 4/6/8
-		Soft Attack from 46/62/76 to 50/60/75
+		Soft Attack from 46/62/76 to 50/60/70
 
 ----------------------------------------------
 
