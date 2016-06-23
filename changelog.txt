@@ -26,6 +26,13 @@ Equipment
 		Defense from 8/10/12 to 4/8/12
 		Breakthrough from 4/5/6 to 3/4/5
 		Soft Attack from 46/56/66 to 45/55/65
+		Production cost from 12/13/14 to 13/14/15
+	
+	Medium Tank Destroyer Equipment:
+		Production cost from 12/13/14 to 13/14/15
+	
+	Medium Tank Anti-Air Equipment:
+		Production cost from 12/13/14 to 13/14/15
 
 	Heavy Tank Equipment:
 		Defense from 6/8/9 to 10/15/20
@@ -37,6 +44,20 @@ Equipment
 		Defense from 4/6/7 to 8/12/16
 		Breakthrough from 5/6/7 to 4/6/8
 		Soft Attack from 46/62/76 to 50/60/70
+		Production cost from 25/27/30 to 26/28/31
+	
+	Heavy Tank Destroyer Equipment:
+		Production cost from 25/27/30 to 26/28/31
+	
+	Heavy Tank Anti-Air Equipment:
+		Production cost from 25/27/30 to 26/28/31
+
+Units
+	Heavy SPART:
+		Heavy Tank Artillery Equipment required from 16 to 20
+	
+	Medium TD:
+		Medium Tank Destroyer Equipment required  from 24 to 25
 
 ----------------------------------------------
 
