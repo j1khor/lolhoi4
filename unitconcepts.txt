@@ -1,0 +1,53 @@
+INF
+  Primary: DEF, ORG, HP
+  Secondary: SA
+CAV
+  Primary: INF + Suppression
+  Secondary: SA
+MTN
+  Primary: INF + Hill/Mountain terrain bonuses
+  Secondary: SA
+MAR
+  Primary: INF + River/Marsh/Amphib terrain bonuses
+  Secondary: SA
+PAR
+  Primary: INF + Paradrop
+  Secondary: SA
+MOT
+  Primary: INF + Mobility
+  Secondary: SA
+MEC
+  Primary: MOT + Hardness
+  Secondary: Armor
+  
+ART
+  Primary: SA
+  Secondary: DEF, (BRK)
+AT
+  Primary: HA, AP
+AA
+  Primary: AA
+  Secondary: HA, AP
+RART
+  Primary: SA
+  Secondary: BRK, (DEF)
+MRART
+  Primary: SA, Mobility
+  Secondary: BRK, (DEF)
+
+LARM
+  Primary: SA, Mobility, BRK, Hardness
+  Secondary: HA, AP, Armor
+ARM
+  Primary: SA/HA, AP, Armor, Mobility, BRK, Hardness
+HARM
+  Primary: HA, AP, Armor, BRK, Hardness
+  Secondary: SA, Mobility
+SPART
+  Primary: +SA, -HA, -AP, -BRK
+  Secondary: -Armor, -Hardness
+TD
+  Primary: -SA, +HA, +AP, -BRK
+SPAA
+  Primary: +AA, -HA, -BRK
+  Secondary: -Armor, -Hardness, +HA, +AP
